@@ -1,0 +1,18 @@
+.title-box, .title-box:before {
+  border-bottom: 2px solid #000000;
+  width: 3rem;
+  transition: width 1s;
+}
+.title-box:hover {
+  border-bottom: 2px solid #000000;
+  width: 11rem;
+}
+#portfolio-title{
+  font-size: 3rem;
+}
+a{
+  color: #000000;
+}
+a:hover{
+  text-decoration: none;
+}
